@@ -1,0 +1,17 @@
+{
+  "name": "desafio-qa-beedoo-2026",
+  "version": "1.0.0",
+  "description": "Regression tests for the Beedoo QA Challenge 2026 - course registration bugs",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": ["qa", "cypress", "regression", "beedoo"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
